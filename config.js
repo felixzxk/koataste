@@ -1,9 +1,9 @@
 module.exports = {
   db: {
-    connectionLimit: 10,
-    host: 'locahost',
-    user: 'root',
-    password: '123456',
-    database: 'hello'
+    port: 3306,
+    host: 'localhost',
+    user: 'test',
+    password: 'hos2014,',
+    database: 'test'
   }
 };
